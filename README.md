@@ -8,11 +8,11 @@
 
 ## Seção 1: Unix, Shell e Git
 
-- [ x ] 1.1 - Unix & Shell
+- [x] 1.1 - Unix & Shell
 
-- [ x ] 1.2 - Git - O que é e para que serve
+- [x] 1.2 - Git - O que é e para que serve
 
-- [ x ] 1.3 - Git & GitHub - Entendendo os comandos
+- [x] 1.3 - Git & GitHub - Entendendo os comandos
 
 ## Seção 2: Introdução à HTML & CSS
 
