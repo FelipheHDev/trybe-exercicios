@@ -16,9 +16,9 @@
 
 ## Seção 2: Introdução à HTML & CSS
 
-- [ ] 2.1 - HTML & CSS - Estruturas de página 
+- [x] 2.1 - HTML & CSS - Estruturas de página 
 
-- [ ] 2.2 - HTML & CSS - Primeiros passos em CSS
+- [x] 2.2 - HTML & CSS - Primeiros passos em CSS
 
 - [ ] 2.3 - HTML & CSS - Seletores e posicionamento
 
