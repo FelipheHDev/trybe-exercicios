@@ -20,9 +20,9 @@
 
 - [x] 2.2 - HTML & CSS - Primeiros passos em CSS
 
-- [ ] 2.3 - HTML & CSS - Seletores e posicionamento
+- [x] 2.3 - HTML & CSS - Seletores e posicionamento
 
-- [ ] 2.4 - HTML Semântico
+- [x] 2.4 - HTML Semântico
 
 - [ ] 2.5 - Projeto - Lesson Learned
 
