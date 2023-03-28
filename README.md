@@ -24,11 +24,11 @@
 
 - [x] 2.4 - HTML Semântico
 
-- [ ] 2.5 - Projeto - Lesson Learned
+- [x] 2.5 - Projeto - Lesson Learned
 
 ## Seção 3: Introdução à JavaScript
 
-- [ ] 3.1 - JavaScript - Primeiros Passos
+- [x] 3.1 - JavaScript - Primeiros Passos
 
 - [ ] 3.2 - JavaScript - Array e loop For
 
