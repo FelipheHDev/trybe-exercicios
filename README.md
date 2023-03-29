@@ -30,7 +30,7 @@
 
 - [x] 3.1 - JavaScript - Primeiros Passos
 
-- [ ] 3.2 - JavaScript - Array e loop For
+- [x] 3.2 - JavaScript - Array e loop For
 
 - [ ] 3.3 - JavaScript - Funções
 
