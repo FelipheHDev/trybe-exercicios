@@ -32,23 +32,23 @@
 
 - [x] 3.2 - JavaScript - Array e loop For
 
-- [ ] 3.3 - JavaScript - Funções
+- [x] 3.3 - JavaScript - Funções
 
-- [ ] 3.4 - JavaScript - Objetos
+- [x] 3.4 - JavaScript - Objetos
 
-- [ ] 3.5 - JavaScript ES6 - let, const, arrow funcitons e template literals
+- [x] 3.5 - JavaScript ES6 - let, const, arrow funcitons e template literals
 
-- [ ] 3.6 - Projeto - Playground Functions
+- [x] 3.6 - Projeto - Playground Functions
 
 ## Seção 4: JavaScript: DOM, Eventos e Web Storage
 
-- [ ] 4.1 - JavaScript - DOM e seletores
+- [x] 4.1 - JavaScript - DOM e seletores
 
-- [ ] 4.2 - JavaScript - Trabalhando com elementos
+- [x] 4.2 - JavaScript - Trabalhando com elementos
 
-- [ ] 4.3 - JavaScript - Eventos
+- [x] 4.3 - JavaScript - Eventos
 
-- [ ] 4.4 - JavaScript - Web Storage
+- [x] 4.4 - JavaScript - Web Storage
 
 - [ ] 4.5 - Projeto - Arte com Pixels
 
